@@ -5,24 +5,24 @@ A curated list of awesome energy forecasting resources such as, code libraries, 
 If you want to contribute to this list, send me a pull request.
 
 ## Table of Contents
-   * [General concepts](#general-concepts)
+   * [General concepts](#general)
    * [Communities](#communities)
    * [Competitions](#competitions)
    * [Datasets](#datasets)
-   * [Code libraries and tools](#code-libraries-and-tools)
+   * [Code libraries and tools](#code)
    * [Online cources](#cources)
-   * [Articles and research papers](#articles-and-research-papers)
+   * [Articles and research papers](#papers)
   
 
-### General concepts
+<a name="general"></a>
+## General concepts
   * [Load Forecasting Terminology: a Growing List](http://blog.drhongtao.com/2014/09/load-forecasting-terminology.html)
   * [What Is Time Series Forecasting?](https://machinelearningmastery.com/time-series-forecasting/)
   * [Rob J Hyndman's books on forecasting](https://robjhyndman.com/publications/) and [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 
 
-### Communities
-<!--and forums (workshops, conferences, and journals) -->
-
+<a name="communities"></a>
+## Communities and forums (workshops, conferences, and journals)
    * [International Institute of Forecasters](https://forecasters.org/)
    * [Energies journal - Data Science and Big Data in Energy Forecasting](https://www.mdpi.com/journal/energies/special_issues/energy_forecasting#published)
    * [TIME SERIES WORKSHOP with a lot of forecasting papers](http://roseyu.com/time-series-workshop/)
@@ -31,8 +31,8 @@ If you want to contribute to this list, send me a pull request.
    * [IEEE Working Group on Energy Forecasting and Analytics](http://www.eeyiwang.com/WGEFA.html)
    * [Yi Wang's publications](http://www.eeyiwang.com/Publications.html)
 
-
-### Competitions
+<a name="competitions"></a>
+## Competitions
 
   1. [Great Energy Predictor Shootout 1 (ASHRAE)- 1992](https://mailman.srv.cs.cmu.edu/pipermail/connectionists/1992-December/014527.html) [Paper applying prediction technique on competition data and giving overview of competition and results](https://repository.upenn.edu/mlab_papers/75/)
   2. [Great Energy Predictor Shootout 2 (ASHRAE) - 1996](https://oaktrust.library.tamu.edu/bitstream/handle/1969.1/2137/ESL-TR-94-07-01.pdf?sequence=1&isAllowed=y)
@@ -57,12 +57,14 @@ If you want to contribute to this list, send me a pull request.
       * [Retail Sales Forecasting](https://www.kaggle.com/tevecsystems/retail-sales-forecasting)
   6. **IMPORTANT** [FAQ for BFCom2018 Qualifying Match](http://blog.drhongtao.com/2018/10/faq-for-bfcom2018-qualifying-match.html)
   
-  
-### Datasets
+
+<a name="datasets"></a>
+## Datasets
   **TODO**
   
-  
-### Code libraries and tools
+
+<a name="code"></a>
+## Code libraries and tools
 
   * [Facebook's Prophet: Automatic Forecasting Procedure](https://facebook.github.io/prophet/)
     * [Forecasting sub-daily data](https://facebook.github.io/prophet/docs/non-daily_data.html#sub-daily-data)
@@ -72,10 +74,13 @@ If you want to contribute to this list, send me a pull request.
   * [Microsoft Research's Deep4cast: Forecasting for Decision Making under Uncertainty](https://github.com/MSRDL/Deep4Cast)
     * [Tutorial](https://github.com/MSRDL/Deep4Cast/blob/master/docs/examples/m4daily.ipynb)
 
-### Cources
+<a name="cources"></a>
+## Tutorials and online cources
 **TODO**
     
-### Articles and research papers
+
+<a name="papers"></a>
+## Articles and research papers
 
    * [A review on time series forecasting techniques for building energy consumption](https://www.sciencedirect.com/science/article/pii/S1364032117303155)
    * [A review of data-driven building energy consumption prediction studies](https://www.sciencedirect.com/science/article/pii/S1364032117306093)
