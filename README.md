@@ -2,7 +2,9 @@
 
 A curated list of awesome energy forecasting resources such as, code libraries, datasets, courses, tutorials, research papers, competitions and communities. Inspired by [`awesome`](https://github.com/sindresorhus/awesome) and [`awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning).
 
-If you want to contribute to this list, send me a pull request.
+If you want to contribute to this list, open an issue, or submit a pull request.
+
+key resources by opening an issue report, submitting a pull request, or dropping me an email @ (zhaoy@cmu.edu). Enjoy readin
 
 ## Table of Contents
    * [General concepts](#general)
