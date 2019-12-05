@@ -110,4 +110,5 @@ key resources by opening an issue report, submitting a pull request, or dropping
       * [Step-by-step tutorials on Deep Learning models for time series forecasting](https://github.com/Geo-Joy/Deep-Learning-for-Time-Series-Forecasting)
       * [ACM SIGKDD 2019 tutorial - Forecasting Big Time Series: Theory and Practice](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/) - [Tutorial Resources](https://github.com/Azure/DeepLearningForTimeSeriesForecasting)
       * [How to Get Started with Deep Learning for Time Series Forecasting (7-Day Mini-Course)](https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course/)
+      * [Probabilistic Forecasting of Sensory Data with Generative Adversarial Networks – ForGAN](https://arxiv.org/pdf/1903.12549.pdf)
      
