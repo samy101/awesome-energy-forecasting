@@ -96,6 +96,7 @@ If you want to contribute to this list, open an issue, or submit a pull request.
    * [Robust Regression Models for Load Forecasting](http://ieeexplore.ieee.org.sci-hub.tw/abstract/document/8536471)
    * [Thesis - Forecasting hourly electricity consumption for sets of households using machine learning algorithms](http://www.diva-portal.org/smash/get/diva2:927793/FULLTEXT01.pdf)
    * [Multi-step Time Series Forecasting with Machine Learning for Electricity Usage](https://machinelearningmastery.com/multi-step-time-series-forecasting-with-machine-learning-models-for-household-electricity-consumption/)
+   * [Short Term Load Forecasting](https://link.springer.com/chapter/10.1007/978-3-030-28669-9_2)
 
    - **Deep learning for forecasting**
       * [Paper list of Time-series Forecasting with Deep Learning](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning)
