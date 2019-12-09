@@ -97,6 +97,7 @@ If you want to contribute to this list, open an issue, or submit a pull request.
    * [Thesis - Forecasting hourly electricity consumption for sets of households using machine learning algorithms](http://www.diva-portal.org/smash/get/diva2:927793/FULLTEXT01.pdf)
    * [Multi-step Time Series Forecasting with Machine Learning for Electricity Usage](https://machinelearningmastery.com/multi-step-time-series-forecasting-with-machine-learning-models-for-household-electricity-consumption/)
    * [Short Term Load Forecasting](https://link.springer.com/chapter/10.1007/978-3-030-28669-9_2)
+   * [Energy forecasting tools and services - ](https://onlinelibrary.wiley.com/doi/pdf/10.1002/widm.1235)
 
    - **Deep learning for forecasting**
       * [Paper list of Time-series Forecasting with Deep Learning](https://github.com/danielgy/Paper-List-of-Time-Series-Forecasting-with-Deep-Learning)
@@ -110,4 +111,5 @@ If you want to contribute to this list, open an issue, or submit a pull request.
       * [ACM SIGKDD 2019 tutorial - Forecasting Big Time Series: Theory and Practice](https://lovvge.github.io/Forecasting-Tutorial-KDD-2019/) - [Tutorial Resources](https://github.com/Azure/DeepLearningForTimeSeriesForecasting)
       * [How to Get Started with Deep Learning for Time Series Forecasting (7-Day Mini-Course)](https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course/)
       * [Probabilistic Forecasting of Sensory Data with Generative Adversarial Networks – ForGAN](https://arxiv.org/pdf/1903.12549.pdf)
+      * [Probabilistic Forecasting using Deep Generative Models](https://arxiv.org/pdf/1909.11865.pdf)
      
